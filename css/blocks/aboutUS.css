@@ -12,8 +12,7 @@
 }
 
 @media screen and (max-width: 767px) {
-    .aboutUS .aboutUs__img {
-        padding-top: 50px;
-        background-color: red;
+    .aboutUs .aboutUs__img {
+        margin-top: 50px;
     }
 }
