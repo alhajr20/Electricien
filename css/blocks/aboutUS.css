@@ -1,0 +1,19 @@
+.aboutUs .aboutUs__title {
+    margin: 50px 0;
+    text-align: center;
+}
+
+.aboutUs .aboutUs__info p {
+    line-height: 35px;
+}
+
+.aboutUs .aboutUs__info p:last-child {
+    margin-top: 20px;
+}
+
+@media screen and (max-width: 767px) {
+    .aboutUS .aboutUs__img {
+        padding-top: 50px;
+        background-color: red;
+    }
+}
